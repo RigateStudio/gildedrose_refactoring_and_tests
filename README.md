@@ -1,2 +1,2 @@
-# gildedrose_refactoring_and_tests
-Refactoring exercices on JS6
+# Gildedrose
+Refactoring and test practices on JS6
